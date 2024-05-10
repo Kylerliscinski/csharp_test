@@ -1,0 +1,14 @@
+C:\Users\godst\source\codeworks\csharp_test\bin\Debug\net8.0\csharp_test.exe
+C:\Users\godst\source\codeworks\csharp_test\bin\Debug\net8.0\csharp_test.deps.json
+C:\Users\godst\source\codeworks\csharp_test\bin\Debug\net8.0\csharp_test.runtimeconfig.json
+C:\Users\godst\source\codeworks\csharp_test\bin\Debug\net8.0\csharp_test.dll
+C:\Users\godst\source\codeworks\csharp_test\bin\Debug\net8.0\csharp_test.pdb
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.AssemblyInfoInputs.cache
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.AssemblyInfo.cs
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.csproj.CoreCompileInputs.cache
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.dll
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\refint\csharp_test.dll
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.pdb
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.genruntimeconfig.cache
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\ref\csharp_test.dll
