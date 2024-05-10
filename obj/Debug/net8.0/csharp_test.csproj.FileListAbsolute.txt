@@ -12,3 +12,4 @@ C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\refint\csharp_test.
 C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.pdb
 C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.genruntimeconfig.cache
 C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\ref\csharp_test.dll
+C:\Users\godst\source\codeworks\csharp_test\obj\Debug\net8.0\csharp_test.sourcelink.json
